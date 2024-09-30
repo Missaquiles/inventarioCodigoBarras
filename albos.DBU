@@ -1,0 +1,67 @@
+[Columns to view]
+1=1
+2=2
+3=3
+4=4
+5=5
+6=6
+7=7
+8=8
+9=9
+[Columns headers]
+1=EMPLAZADOS
+2=N2
+3=N3
+4=N4
+5=N5
+6=N6
+7=N7
+8=N8
+9=N9
+[Columns pictures]
+1=
+2=
+3=
+4=
+5=
+6=
+7=
+8=
+9=
+[Columns width]
+1=119
+2=133
+3=175
+4=126
+5=175
+6=217
+7=161
+8=175
+9=231
+[Index files]
+Active index=<None>
+RDD=DBFNTX
+[Report]
+Title=
+SubTotal=
+File=
+Exit=1
+Page break=.F.
+Summary=.F.
+Cell View=.F.
+[Filters]
+Scope=.F.
+Top Scope=
+Bot Scope=
+Filter=.F.
+Filter expression=
+[Locate]
+Expression=
+[General]
+Header Size=321
+[Graphics Info]
+Elements per serie=Recno()
+Up Title=
+Down Title=
+Right Title=
+Left Title=
